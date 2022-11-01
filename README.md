@@ -9,7 +9,7 @@ This is a project for Unitary tests of the second Alyra project - Voting.sol
 - [@sigueninni](https://github.com/sigueninni/)
 
 
-## Unitary tests Blocs:
+## Unitary tests Blocs( "describe" ):
 
 - Initial settings Voting session
 - Owner possible actions
