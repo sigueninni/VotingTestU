@@ -305,7 +305,7 @@ contract("Voting", accounts => {
   /**********************************************************************/
   /********************we end the Voting*********************************/
   /**********************************************************************/
-  describe("endVotingSession function", function () {
+  describe("end Voting", function () {
     before(async function () {
       VotingInstance = await Voting.deployed();
     });
